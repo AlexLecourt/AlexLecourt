@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Alex ! 👋
 
 ## 🌟 About Me
 - 🌐 **Cybersecurity Aspirant** | SOC Analyst in progress
