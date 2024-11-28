@@ -16,8 +16,8 @@
 
 ## 🗂️ Featured Projects
 1. 🐍 [Python Projects](https://github.com/AlexLecourt/Python-Project)
-2. 🖥️ [Home SOC Automation](https://github.com/yourusername/project2)
-3. 🌐 [Custom Hardware Build Guide](https://github.com/yourusername/project3)
+2. 🖥️ [Home Lab Build](https://github.com/yourusername/project2)
+4. 🌐 [Custom Hardware Build Guide](https://github.com/yourusername/project3)
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
