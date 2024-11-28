@@ -17,7 +17,8 @@
 ## 🗂️ Featured Projects
 1. 🐍 [Python Projects](https://github.com/AlexLecourt/Python-Project)
 2. 🖥️ [Home Lab Build](https://github.com/AlexLecourt/HomeLabBuild/blob/main/README.md)
-4. 🌐 [Custom Hardware Build Guide](https://github.com/yourusername/project3)
+3. 💪 [HTB CDSA Workout](https://github.com/yourusername/HTB-CDSA-Workout)  
+4. 🌐 [Custom Hardware Build Photos](https://github.com/yourusername/project3)
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/alex-lecourt-73207b2a2/)
