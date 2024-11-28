@@ -16,7 +16,7 @@
 
 ## 🗂️ Featured Projects
 1. 🐍 [Python Projects](https://github.com/AlexLecourt/Python-Project)
-2. 🖥️ [Home Lab Build](https://github.com/yourusername/project2)
+2. 🖥️ [Home Lab Build](https://github.com/AlexLecourt/HomeLabBuild/blob/main/README.md)
 4. 🌐 [Custom Hardware Build Guide](https://github.com/yourusername/project3)
 
 ## 📫 Contact Me
