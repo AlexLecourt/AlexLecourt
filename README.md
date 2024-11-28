@@ -20,5 +20,5 @@
 4. 🌐 [Custom Hardware Build Guide](https://github.com/yourusername/project3)
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/alex-lecourt-73207b2a2/)
+- Email: lecourtalex91@gmail.com
