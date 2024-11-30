@@ -6,8 +6,8 @@
 - 📜 Always learning and growing
 
 ## 🛠️ Skills
-- 🔐 Cybersecurity: Snort, Wireshark, Burp Suite
-- 💻 Programming: Python, Bash
+- 🔐 Cybersecurity: Snort, Wireshark, Zeek
+- 💻 Programming: Python
 - ⚙️ Hardware Enthusiast: Building and troubleshooting PCs
 
 ## 🌱 Currently Learning
